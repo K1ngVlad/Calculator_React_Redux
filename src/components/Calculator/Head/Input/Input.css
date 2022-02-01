@@ -1,0 +1,15 @@
+.DivInput {
+  width: 320px;
+  height: 80px;
+  background-color: rgb(235, 217, 193);
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  overflow: hidden;
+}
+
+.Input {
+  white-space: nowrap;
+  font-size: 40px;
+}

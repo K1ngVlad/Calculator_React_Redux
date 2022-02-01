@@ -1,0 +1,10 @@
+.Head {
+  background-color: rgb(109, 146, 158);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 384px;
+  height: 160px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
